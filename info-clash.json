@@ -22,7 +22,8 @@
         "detail1": "Block Basher",
         "detail2": "hit a block",
         "detail3": "times hitting a block",
-        "info": "828,000",
+        "pointpersonal": "828.000",
+        "pointguild":"7.866.000",
         "personal": 828000,
         "thumbnail": "https://cdn.discordapp.com/attachments/682109891275522071/1103996276493783100/Anomalizing_Elegant_Hammer.png"
     },
@@ -49,7 +50,8 @@
         "detail1": "Block Builders",
         "detail2": "build a block",
         "detail3": "times building a block",
-        "info": "938,200",
+        "pointpersonal": "938.200",
+        "pointguild":"8.912.900",
         "personal": 938200,
         "thumbnail": "https://cdn.discordapp.com/attachments/682109891275522071/1104016291385315478/Anomalizing_Elegant_Trowel.png"
     },
@@ -76,7 +78,8 @@
         "detail1": "Fishing Fanatics",
         "detail2": "catch a fish",
         "detail3": "times catching a fish",
-        "info": "4,690,800",
+        "pointpersonal": "4.690.800",
+        "pointguild":"44.562.600",
         "personal": 4690800,
         "thumbnail": "https://cdn.discordapp.com/attachments/682109891275522071/1104017573839900692/Elegant_Anomarod.png"
     },
@@ -103,7 +106,8 @@
         "detail1": "Harvest Heroes",
         "detail2": "harvest a tree",
         "detail3": "times harvesting a tree",
-        "info": "938,200",
+        "pointpersonal": "3.282.800",
+        "pointguild":"31.186.600",
         "personal": 938200,
         "thumbnail": "https://cdn.discordapp.com/attachments/682109891275522071/1104255895283695706/Anomalizing_Elegant_Scythe.png"
     },
@@ -130,7 +134,8 @@
         "detail1": "Speedy Splicers",
         "detail2": "splice seeds",
         "detail3": "times splicing seeds",
-        "info": "938,200",
+        "pointpersonal": "3.282.800",
+        "pointguild":"8.912.900",
         "personal": 938200,
         "thumbnail": "https://cdn.discordapp.com/attachments/682109891275522071/1104257076173209740/Anomalizing_Elegant_Cultivator.png"
     },
@@ -157,7 +162,8 @@
         "detail1": "Surgery Stars",
         "detail2": "do successful surgery",
         "detail3": "times successful surgery",
-        "info": "1,655,900",
+        "pointpersonal": "1.655.900",
+        "pointguild":"15.731.050",
         "personal": 1655900,
         "thumbnail": "https://cdn.discordapp.com/attachments/682109891275522071/1104258383621652601/Anomalizing_Elegant_Bone_Saw.png"
     },
@@ -184,7 +190,8 @@
         "detail1": "Cooking Conquerors",
         "detail2": "cook a meal",
         "detail3": "times cooking meals",
-        "info": "1,885,000",
+        "pointpersonal": "1.885.000",
+        "pointguild":"17.907.500",
         "personal": 1885000,
         "thumbnail": "https://cdn.discordapp.com/attachments/682109891275522071/1104260472632512533/Anomalizing_Elegant_Rolling_Pin.png"
     },
@@ -211,7 +218,8 @@
         "detail1": "Super Startopians",
         "detail2": "completing star voyages",
         "detail3": "times completing star voyages",
-        "info": "1,655,900",
+        "pointpersonal": "1.655.900",
+        "pointguild":"15.731.050",
         "personal": 1655900,
         "thumbnail": "https://cdn.discordapp.com/attachments/682109891275522071/1104261198729461821/Anomalizing_Elegant_Scanner.png"
     }
